@@ -10,7 +10,7 @@ THIS IS A WORK IN PROGRESS AND NOT READY FOR PRODUCTION USE YET!
 - Must have "Latest Recommended" txAdmin build artifact
 	- [Windows](http://runtime.fivem.net/artifacts/fivem/build_server_windows/master/) 
 	- [Linux](http://runtime.fivem.net/artifacts/fivem/build_proot_linux/master/)
- - SQL Version: MariaDB version 10.11 or above, OR MySQL.8 or above.
+ - SQL Version: MariaDB version 10.11 or above, OR MySQL 8.0 or above.
 
 ## Installation Tutorial
 
